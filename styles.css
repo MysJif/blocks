@@ -1,0 +1,49 @@
+body {
+    color: black;
+    background-color: whitesmoke;
+    font-size: 1.5em;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    color: black;
+}
+
+div {
+    text-align: center;
+    width: 70%;
+    padding: 10px;
+}
+
+blockquote {
+    font-size: 1.6em;
+    padding: 20px;
+}
+
+video {
+    width: 30%
+}
+
+address {
+    font-size: .8em;
+}
+
+#Challenger {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+#Main {
+    border: 2px solid black;
+    text-align: center;
+}
+
+#Header {
+    border: 3px solid black;
+    padding: 10px;
+}
